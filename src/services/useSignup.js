@@ -3,7 +3,7 @@ import { projectAuth } from '../firebase/config'
 
 const error = ref(null)
 
-const signup = async (email, password, displayName) => {
+const signup = async (email, password, displayName) => {// async functions always return a promise
     error.value  = null //reset error value
 
     try{
