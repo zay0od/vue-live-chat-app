@@ -17,4 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-live-chat-app
+
+
+### vue-live-chat-app
+A simple Live Chatroom web app created using VueJS and Firebase for auhtentication and data base.
